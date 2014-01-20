@@ -1,0 +1,4 @@
+add_lunch_combo ill_i9300-userdebug
+add_lunch_combo ill_i9300-user
+add_lunch_combo ill_i9305-userdebug
+add_lunch_combo ill_i9305-user
